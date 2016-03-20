@@ -15,7 +15,7 @@ At [CodeClan](http://codeclan.com/course/course-curriculum/) I have been studyin
 |Ruby       |    ....    |   ...   |     /     |
 |SQL        |    ....    |   ...   |     /     | 
 |JavaScript |    ....    |    /    |     /     | 
-|Java       |     //     |    /    |     /     | 
+|    ...    |     //     |    /    |     /     | 
 
 **Fundamental Programming Concepts:** Object Oriented Design/Programming, REST, DRY, CRUD, DOM, Object Relational Mappers(i.e. ORM), APIs, JSON, (...)  
   
