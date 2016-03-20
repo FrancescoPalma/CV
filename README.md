@@ -6,7 +6,7 @@ Before joining [CodeClan](http://codeclan.com) I had been working on the fundame
 
 ### SKILLS | In Progress
 
-At [CodeClan](http://codeclan.com/course/course-curriculum/) I have been studying and working on a variety of technologies ([Full Curriculum](https://github.com/FrancescoPalma/CodeClan---CX3)) :
+At CodeClan I have been studying and working on a variety of technologies ([Full Curriculum](https://github.com/FrancescoPalma/CodeClan---CX3)) :
 
 | Languages | Frameworks | Testing | Databases |
 |:---------:|:----------:|:-------:|:---------:|
