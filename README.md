@@ -12,10 +12,10 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 | Languages | Frameworks/Libraries | Testing | Databases |
 |:---------:|:----------:|:-------:|:---------:|
 |HTML5      |Sinatra     |TDD/BDD  |PostGreSQL |
-|CSS3       |jQuery      |MiniTest |    ...    |
+|CSS3       |jQuery/lodash      |MiniTest |    ...    |
 |Ruby       |    ....    |Mocha    |     /     |
 |SQL        |    ....    |Chai     |     /     | 
-|JavaScript         |    ....    |Lodash   |     /     | 
+|JavaScript         |    ....    |/   |     /     | 
 |    ...    |     //     |    /    |     /     | 
 
 **Fundamental Programming Concepts:** Object Oriented Design/Programming, REST, DRY, CRUD, DOM, Object Relational Mappers(i.e. ORM), APIs, JSON, (...)  
