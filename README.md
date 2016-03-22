@@ -9,13 +9,13 @@ Prior to that, I had some experience in making websites with WordPress and worki
 
 At CodeClan I have been studying and working on a variety of technologies ([Full Curriculum](https://github.com/FrancescoPalma/CodeClan---CX3)) :
 
-| Languages | Frmws/Libs | Testing | Databases |
+| Languages | Frameworks/Libraries | Testing | Databases |
 |:---------:|:----------:|:-------:|:---------:|
 |HTML5      |Sinatra     |TDD/BDD  |PostGreSQL |
 |CSS3       |jQuery      |MiniTest |    ...    |
 |Ruby       |    ....    |Mocha    |     /     |
 |SQL        |    ....    |Chai     |     /     | 
-|JS         |    ....    |Lodash   |     /     | 
+|JavaScript         |    ....    |Lodash   |     /     | 
 |    ...    |     //     |    /    |     /     | 
 
 **Fundamental Programming Concepts:** Object Oriented Design/Programming, REST, DRY, CRUD, DOM, Object Relational Mappers(i.e. ORM), APIs, JSON, (...)  
