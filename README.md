@@ -16,7 +16,8 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 |Ruby       |Materialize  | ...            |photoshop  |Mocha    |           |UX             |        |
 |SQL        |...          |                |heroku     |Chai     |           |UI             |        |
 |JS         |             |                |npm        |...      |           |Responsiveness |        |
-|...        |             |                |...        |         |           |               |        |
+|...        |             |                |Agile      |         |           |               |        |
+|           |             |                |...        |         |           |               |        |
 
 ### PROJECTS | In Progress
   
