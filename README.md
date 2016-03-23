@@ -13,11 +13,11 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 |:---------:|:-----------:|:--------------:|:---------:|:-------:|:---------:|:-------------:|:------:|
 |HTML5      |Sinatra      | jQuery         |git/github |TDD/BDD  |PostGreSQL |Photoshop      |...     |
 |CSS3/SASS  |Bootstrap    | lodash         |slack      |MiniTest |    ...    |Fundamentals   |        |
-|Ruby       |Materialize  | ...            |photoshop  |Mocha    |           |UX             |        |
-|SQL        |...          |                |heroku     |Chai     |           |UI             |        |
-|JS         |             |                |npm        |...      |           |Responsiveness |        |
-|...        |             |                |Agile      |         |           |               |        |
-|           |             |                |...        |         |           |               |        |
+|Ruby       |Materialize  | ...            |heroku     |Mocha    |           |UX             |        |
+|SQL        |...          |                |npm        |Chai     |           |UI             |        |
+|JS         |             |                |Agile      |...      |           |Responsiveness |        |
+|...        |             |                |...        |         |           |               |        |
+|           |             |                |           |         |           |               |        |
 
 ### PROJECTS | In Progress
   
