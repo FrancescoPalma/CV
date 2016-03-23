@@ -9,20 +9,16 @@ Prior to that, I had some experience in making websites with WordPress and worki
 
 At CodeClan I have been studying and working on a variety of technologies ([Full Curriculum](https://github.com/FrancescoPalma/CodeClan---CX3)) :
 
-| Languages | Frameworks/Libraries | Testing | Databases |
-|:---------:|:----------:|:-------:|:---------:|
-|HTML5      |Sinatra     |TDD/BDD  |PostGreSQL |
-|CSS3       |jQuery/lodash      |MiniTest |    ...    |
-|Ruby       |    ....    |Mocha    |     /     |
-|SQL        |    ....    |Chai     |     /     | 
-|JavaScript         |    ....    |/   |     /     | 
-|    ...    |     //     |    /    |     /     | 
-
-**Fundamental Programming Concepts:** Object Oriented Design/Programming, REST, DRY, CRUD, DOM, Object Relational Mappers(i.e. ORM), APIs, JSON, (...)  
+| Languages | Frameworks  | Libraries/APIs | Tools     | Testing | Databases |
+|:---------:|:-----------:|:--------------:|:---------:|:-------:|:---------:|
+|HTML5      |Sinatra      | jQuery         |git/github |TDD/BDD  |PostGreSQL |           
+|CSS3/SASS  |Bootstrap    | lodash         |slack      |MiniTest |    ...    |           
+|Ruby       |Materialize  | ...            |photoshop  |Mocha    |           |           
+|SQL        |...          |                |heroku     |Chai     |           |           
+|JS         |             |                |npm        |...      |           |           
+|...        |             |                |...        |         |           |           
   
-**Fundamentals of Design:** UX, UI, Responsiveness
-  
-**Tools:** Git, GitHub, Slack, Heroku, npm, (...)  
+**Fundamentals of Design:** Photoshop, UX, UI, Responsiveness
   
 **Mobile Development:** (...)  
 
