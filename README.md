@@ -25,7 +25,7 @@ First Assignment at CodeClan, from 11 March 2016 to 18 March 2016: [WealthyPocke
   
 ### LINKS
 
-[Website](http://intermundi.it) | [Mail](mailto:fpfrancescopalma7@gmail.com) | [LinkedIn](https://it.linkedin.com/in/palmafrancesco)
+[Website](http://intermundi.it) | [Mail](mailto:fpfrancescopalma7@gmail.com) | [LinkedIn](https://it.linkedin.com/in/palmafrancesco) | [Portfolio](http://intermundi.it/en/francesco/portfolio/)
 
 ### ABOUT ME
 * Graduate in 'Law in Business'
