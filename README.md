@@ -16,7 +16,7 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 |Ruby       |Materialize  | ...            |Heroku     |Mocha    |           |UX             |        |
 |SQL        |...          |                |npm        |Chai     |           |UI             |        |
 |JavaScript |             |                |Agile      |...      |           |Responsiveness |        |
-|...        |             |                |...        |         |           |               |        |
+|...        |             |                |...        |         |           |Mobile-First   |        |
 |           |             |                |           |         |           |               |        |
 
 ### PROJECTS | In Progress
@@ -29,6 +29,7 @@ First Assignment at CodeClan, from 11 March 2016 to 18 March 2016: [WealthyPocke
 
 ### ABOUT ME
 * Graduate in 'Law in Business'
-* Passionate about Financial Education
-* I am a strong WildLife Conservation supporter
+* Passionate about Financial Education & FinTech
+* I am a strong WildLife Conservation & Anti Poaching supporter
 * Always learning new things
+* Love traveling & exploring
