@@ -3,7 +3,7 @@
 I am a Trainee Software Engineer who loves creating with technology.  
 I am particularly passionate about **Front-End**, **Responsive Design** & **Mobile Development**.  
 Before joining [CodeClan](http://codeclan.com) I had been working on the fundamentals of HTML5, CSS3 & JavaScript for a few months.  
-Prior to that, I had some experience in making websites with WordPress and working on image editing with Photoshop.
+Prior to that, I had some experience with WordPress and Photoshop.
 
 ### SKILLS | In Progress
 
