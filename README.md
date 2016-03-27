@@ -15,7 +15,7 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 |CSS3/SASS  |Bootstrap    | lodash         |Slack      |MiniTest |    ...    |Fundamentals   |        |
 |Ruby       |Materialize  | ...            |Heroku     |Mocha    |           |UX             |        |
 |SQL        |...          |                |npm        |Chai     |           |UI             |        |
-|JavaScript |             |                |Agile      |...      |           |Responsiveness |        |
+|JS/Node.js |             |                |Agile      |...      |           |Responsiveness |        |
 |...        |             |                |...        |         |           |Mobile-First   |        |
 |           |             |                |           |         |           |               |        |
 
