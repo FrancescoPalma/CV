@@ -11,13 +11,14 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 
 | Languages | Frameworks  | Libraries/APIs | Tools     | Testing | Databases | Design        | Mobile |
 |:---------:|:-----------:|:--------------:|:---------:|:-------:|:---------:|:-------------:|:------:|
-|HTML5      |Sinatra      | jQuery         |Git/Github |TDD      |PostGreSQL |Adobe PS basics|...     |
-|CSS3/SASS  |...          | lodash         |Slack      |MiniTest |...        |UX             |        |
-|Ruby       |             | ...            |Heroku     |Mocha    |           |UI             |        |
-|SQL        |             |                |npm        |Chai     |           |Responsive Web |        |
-|JS/Node.js |             |                |Agile      |...      |           |Mobile-First   |        |
-|...        |             |                |...        |         |           |Material Design|        |
-|           |             |                |           |         |           |...            |        |
+|HTML5      |Bootstrap    | jQuery         |Git/Github |TDD      |PostGreSQL |Adobe PS basics|...     |
+|CSS3/SASS  |Sinatra      | lodash         |Slack      |MiniTest |...        |UX             |        |
+|Ruby       |...          | Highcharts     |Heroku     |Mocha    |           |UI             |        |
+|SQL        |             | Google Maps    |npm        |Chai     |           |Responsive Web |        |
+|JS/Node.js |             | MDL            |Agile      |...      |           |Mobile-First   |        |
+|...        |             | ...            |Trello     |         |           |Material Design|        |
+|           |             |                |ChromeTools|         |           |BEM            |        |
+|           |             |                |...        |         |           |...            |        |  
 
 ### PROJECTS | In Progress
   
