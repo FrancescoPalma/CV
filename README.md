@@ -12,14 +12,16 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 | Languages | Frameworks  | Libraries/APIs | Tools     | Testing | Databases | Design        | Mobile |
 |:---------:|:-----------:|:--------------:|:---------:|:-------:|:---------:|:-------------:|:------:|
 |HTML5      |Materialize  | jQuery         |Git/Github |TDD      |PostGreSQL |Adobe PS basics|...     |
-|CSS3/SASS  |Sinatra      | lodash         |Slack      |MiniTest |...        |UX             |        |
+|CSS3/SASS  |Sinatra      | lodash         |Slack      |MiniTest |MongoDB    |UX             |        |
 |Ruby       |Bootstrap    | Highcharts     |Heroku     |Mocha    |           |UI             |        |
 |SQL        |...          | Google Maps    |npm        |Chai     |           |Responsive Web |        |
 |JS/Node.js |             | MDL            |Agile      |...      |           |Mobile-First   |        |
 |...        |             | ...            |Trello     |         |           |Material Design|        |
 |           |             |                |ChromeTools|         |           |BEM            |        |
-|           |             |                |...        |         |           |...            |        |  
-
+|           |             |                |WebPack    |         |           |...            |        |  
+|           |             |                |Git        |         |           |               |        |  
+|           |             |                |...        |         |           |               |        |  
+    
 ### PROJECTS | In Progress
   
 First Assignment at CodeClan, from 11 March 2016 to 18 March 2016: [WealthyPockets®](https://wealthypockets.herokuapp.com/) | [Project Repository](https://github.com/FrancescoPalma/CodeClan_Assignment_1)  
