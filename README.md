@@ -19,7 +19,6 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 |...        |             | ...            |Trello     |         |           |Material Design|        |
 |           |             |                |ChromeTools|         |           |BEM            |        |
 |           |             |                |WebPack    |         |           |...            |        |  
-|           |             |                |Git        |         |           |               |        |  
 |           |             |                |...        |         |           |               |        |  
     
 ### PROJECTS | In Progress
