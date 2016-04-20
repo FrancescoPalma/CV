@@ -15,7 +15,7 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 |CSS3/SASS  |Sinatra      | lodash         |Heroku     |MiniTest |MongoDB    |UX             |        |
 |Ruby       |Bootstrap    | Highcharts     |Agile      |Mocha    |           |UI             |        |
 |SQL        |...          | Google Maps    |npm        |Chai     |           |Responsive Web |        |
-|JS/Node.js |             | MDL            |Webpack    |...      |           |Mobile-First   |        |
+|JS/Node.js |             | MDLite         |Webpack    |...      |           |Mobile-First   |        |
 |...        |             | ...            |...        |         |           |Material Design|        |
 |           |             |                |           |         |           |BEM            |        |
 |           |             |                |           |         |           |...            |        |  
