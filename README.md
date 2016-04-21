@@ -1,7 +1,7 @@
 # Francesco Palma | My CV & Portfolio 
   
 I am a Trainee Software Engineer who loves creating with technology.  
-I am particularly passionate about **Front-End**, **Responsive Design** & **Mobile Development**.  
+I am particularly passionate about **Front-End Web Development**, **Mobile & Responsive Design**, **Cross-Platform Development**.  
 Before joining [CodeClan](http://codeclan.com) I had been working on the fundamentals of HTML5, CSS3 & JavaScript for a few months.  
 Prior to that, I had some experience with WordPress and Photoshop.
 
@@ -9,18 +9,18 @@ Prior to that, I had some experience with WordPress and Photoshop.
 
 At CodeClan I have been studying and working on a variety of technologies ([Full Curriculum](https://github.com/FrancescoPalma/CodeClan---CX3)) :
 
-| Languages | Frameworks  | Libraries/APIs | Tools     | Testing | Databases | Design        | Mobile |
-|:---------:|:-----------:|:--------------:|:---------:|:-------:|:---------:|:-------------:|:------:|
-|HTML5      |Materialize  | jQuery         |Git/Github |TDD      |PostGreSQL |Photoshop      |...     |
-|CSS3/SASS  |Sinatra      | lodash         |Heroku     |MiniTest |MongoDB    |UX             |        |
-|Ruby       |Bootstrap    | Highcharts     |Agile      |Mocha    |           |UI             |        |
-|SQL        |...          | Google Maps    |npm        |Chai     |           |Responsive Web |        |
-|JS/Node.js |             | MDLite         |Webpack    |...      |           |Mobile-First   |        |
-|...        |             | ...            |...        |         |           |Material Design|        |
-|           |             |                |           |         |           |BEM            |        |
-|           |             |                |           |         |           |...            |        |  
-|           |             |                |           |         |           |               |        |  
-    
+| Languages  | Frameworks/Libraries   | Testing | Databases | Design        | Mobile |
+|:-----------:|:---------------------:|:-------:|:---------:|:-------------:|:------:|
+|HTML5       |Sinatra                 |TDD      |PostGreSQL |Photoshop      |Android |
+|CSS3/SASS   |Rails                   |Minitest |MongoDB    |UX             |...     |
+|Ruby        |React.js                |Rspec    |...        |UI             |        |
+|SQL         |Express.js              |Mocha    |           |Responsiveness |        |
+|JS/Node.js  |jQuery                  |Chai     |           |Mobile-First   |        |
+|Java(basics)|Bootstrap               |JUnit    |           |Material Design|        |
+|...         |Materialize             |...      |           |...            |        |
+|            |...                     |         |           |               |        | 
+  
+
 ### PROJECTS | In Progress
   
 First Assignment at CodeClan, from 11 March 2016 to 18 March 2016: [WealthyPockets®](https://wealthypockets.herokuapp.com/) | [Project Repository](https://github.com/FrancescoPalma/CodeClan_Assignment_1)  
@@ -33,4 +33,4 @@ First Assignment at CodeClan, from 11 March 2016 to 18 March 2016: [WealthyPocke
 * Law Graduate
 * Passionate about Financial Education
 * WildLife Conservation & Anti Poaching supporter
-* Love traveling & exploring
+* Love traveling & learning foreign languages
