@@ -1,4 +1,4 @@
-# Francesco Palma | My CV & Portfolio 
+# Francesco Palma
   
 I am a Trainee Software Engineer who loves creating with technology.  
 I am particularly passionate about **Front-End Web Development**, **Mobile & Responsive Design**, **Cross-Platform Development**.  
