@@ -21,9 +21,9 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 |            |...                     |         |           |               |        | 
   
 
-### PROJECTS | In Progress
+### ACHIEVEMENTS | In Progress
   
-First Assignment at CodeClan, from 11 March 2016 to 18 March 2016: [WealthyPockets®](https://wealthypockets.herokuapp.com/) | [Project Repository](https://github.com/FrancescoPalma/CodeClan_Assignment_1)  
+1) March 2016: [WealthyPockets®](https://wealthypockets.herokuapp.com/) | [Project Repository](https://github.com/FrancescoPalma/CodeClan_Assignment_1)  
   
 ### LINKS
 
