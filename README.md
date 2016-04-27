@@ -1,7 +1,7 @@
 # Francesco Palma
   
 I am a Trainee Software Engineer who loves creating with technology.  
-I am particularly passionate about **Front-End Web Development**, **Mobile & Responsive Design**, **Cross-Platform Development**.  
+I am particularly passionate about **Front-End Web Development**, **Mobile & Responsive Design/Development**.  
 Before joining [CodeClan](http://codeclan.com) I had been working on the fundamentals of HTML5, CSS3 & JavaScript for a few months.  
 Prior to that, I had some experience with WordPress and Photoshop.
 
@@ -11,12 +11,12 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 
 | Languages  | Frameworks/Libraries   | Testing | Databases | Design        | Mobile |
 |:-----------:|:---------------------:|:-------:|:---------:|:-------------:|:------:|
-|HTML5       |Sinatra                 |TDD      |PostGreSQL |Photoshop      |...     |
-|CSS3/SASS   |Rails                   |Minitest |MongoDB    |UX             |        |
+|HTML5       |Sinatra                 |TDD      |PostGreSQL |Photoshop      |Android |
+|CSS3/SASS   |Rails                   |Minitest |MongoDB    |UX             |...     |
 |Ruby        |React.js                |Rspec    |...        |UI             |        |
 |SQL         |Express.js              |Mocha    |           |Responsiveness |        |
 |JS/Node.js  |jQuery                  |Chai     |           |Mobile-First   |        |
-|Java(basics)|Bootstrap               |JUnit    |           |Material Design|        |
+|Java        |Bootstrap               |JUnit    |           |Material Design|        |
 |...         |Materialize             |...      |           |...            |        |
 |            |...                     |         |           |               |        | 
   
