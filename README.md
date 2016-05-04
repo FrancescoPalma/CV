@@ -23,7 +23,11 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 
 ### ACHIEVEMENTS | In Progress
   
-1) March 2016: [WealthyPockets®](https://wealthypockets.herokuapp.com/) | [Project Repository](https://github.com/FrancescoPalma/CodeClan_Assignment_1)  
+1) March 2016: Solo Project -> [WealthyPockets®](https://wealthypockets.herokuapp.com/) | [Project Repository](https://github.com/FrancescoPalma/CodeClan_Assignment_1)  
+  
+2) April 2016: Team Project -> [FlyAway](https://github.com/rpmonteiro/project_2_flyaway)  
+  
+3) May 2016: Solo Project -> [KittyTheWhale®](https://play.google.com/store/apps/details?id=com.francesco_p.kitty_whale_game) | [Project Repository](https://github.com/FrancescoPalma/CodeClan_Assignment_3) 
   
 ### LINKS
 
