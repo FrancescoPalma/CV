@@ -13,9 +13,9 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 |:-----------:|:---------------------:|:-------:|:---------:|:-------------:|:------:|
 |HTML5       |Sinatra                 |TDD      |PostGreSQL |Photoshop      |Android |
 |CSS3/SASS   |Rails                   |Minitest |MongoDB    |UX             |...     |
-|Ruby        |React.js                |Rspec    |...        |UI             |        |
-|SQL         |Express.js              |Mocha    |           |Responsiveness |        |
-|JS/Node.js  |jQuery                  |Chai     |           |Mobile-First   |        |
+|Ruby        |React                   |Rspec    |...        |UI             |        |
+|SQL         |Node/Express            |Mocha    |           |Responsiveness |        |
+|JS          |jQuery                  |Chai     |           |Mobile-First   |        |
 |Java        |Bootstrap               |JUnit    |           |Material Design|        |
 |...         |Materialize             |...      |           |...            |        |
 |            |...                     |         |           |               |        | 
