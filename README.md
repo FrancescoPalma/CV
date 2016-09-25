@@ -12,7 +12,7 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
 |:-----------:|:---------------------:|:-------:|:---------:|:-------------:|:------:|
 |HTML5       |Sinatra                 |TDD      |PostGreSQL |Photoshop      |Android |
 |CSS3/SASS   |Rails                   |Minitest |MongoDB    |UX             |iOS     |
-|Ruby        |React                   |Rspec    |...        |UI             |        |
+|Ruby        |React                   |Rspec    |...        |UI             |...     |
 |SQL         |Node/Express            |Mocha    |           |Responsive Web Design|        |
 |JavaScript  |jQuery                  |Chai     |           |Mobile-First   |        |
 |Java        |Bootstrap               |JUnit    |           |Material Design|        |
@@ -32,10 +32,4 @@ At CodeClan I have been studying and working on a variety of technologies ([Full
   
 ### LINKS
 
-[Website](http://intermundi.it) | [Mail](mailto:fpfrancescopalma7@gmail.com) | [LinkedIn](https://it.linkedin.com/in/palmafrancesco) | [Portfolio](http://intermundi.it/en/francesco/portfolio/)
-
-### ABOUT ME
-* Law Graduate
-* Passionate about Financial Education
-* WildLife Conservation & Anti Poaching supporter
-* Love traveling & learning foreign languages
+[Mail](mailto:fpfrancescopalma7@gmail.com) | [LinkedIn](https://it.linkedin.com/in/palmafrancesco)
